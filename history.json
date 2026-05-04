@@ -1,0 +1,50 @@
+[
+    {
+        "from": "GBP",
+        "to": "JPY",
+        "amount": 137.0,
+        "rate": 213.0784,
+        "result": 29191.7408,
+        "timestamp": "\u0421\u0435\u0439\u0447\u0430\u0441"
+    },
+    {
+        "from": "JPY",
+        "to": "GBP",
+        "amount": 751.0,
+        "rate": 0.004693,
+        "result": 3.524443,
+        "timestamp": "\u0421\u0435\u0439\u0447\u0430\u0441"
+    },
+    {
+        "from": "GBP",
+        "to": "RUB",
+        "amount": 524.0,
+        "rate": 101.831,
+        "result": 53359.444,
+        "timestamp": "\u0421\u0435\u0439\u0447\u0430\u0441"
+    },
+    {
+        "from": "RUB",
+        "to": "GBP",
+        "amount": 774.0,
+        "rate": 0.00982,
+        "result": 7.6006800000000005,
+        "timestamp": "\u0421\u0435\u0439\u0447\u0430\u0441"
+    },
+    {
+        "from": "EUR",
+        "to": "USD",
+        "amount": 135.0,
+        "rate": 1.1736,
+        "result": 158.436,
+        "timestamp": "\u0421\u0435\u0439\u0447\u0430\u0441"
+    },
+    {
+        "from": "USD",
+        "to": "EUR",
+        "amount": 4242.0,
+        "rate": 0.8521,
+        "result": 3614.6081999999997,
+        "timestamp": "\u0421\u0435\u0439\u0447\u0430\u0441"
+    }
+]
